@@ -118,7 +118,7 @@ body {
     top: 723px;
     margin-left: -2px;
     border-radius: 5%;
-    background: silver;
+    background: aliceblue;
     margin-right: 76px;
 }
 
@@ -155,11 +155,11 @@ body {
 }
 
 .box2 {
-    background: paleturquoise;
+    background: seashell;
 }
 
 .box3 {
-    background: lightblue;
+    background: rgb(187, 223, 247);
 }
 .all-container{
    margin-top:140px;
@@ -172,8 +172,6 @@ body {
     width: 400px;
     height: 400px;
     top: 1180px;
-    background: url(.jpg), #ff1212;
-    border-radius: 26px;
 }
 
 .coding-text{
@@ -224,4 +222,30 @@ body {
     top: 1180px;
     background: url(.jpg), #ff1212;
     border-radius: 26px;
+}
+.footer{
+   left: 0%;
+   right: 0%;
+   bottom: 0%;
+   height:100px;
+   margin-top:10%;
+   background: #0B0D17;
+}
+.footer-mission{
+    line-height: 70px;
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Yeseva One';
+    color: wheat;
+}
+.footer-p{
+    color: gray;
+    text-align: center;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: -30px;
 }

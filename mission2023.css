@@ -8,8 +8,8 @@ body {
 }
 
 .half-width {
-    width: 28%;
-    padding-left: 11%;
+    width: 17%;
+    padding-left: 17%;
 }
 
 .border-shape {
@@ -160,4 +160,49 @@ body {
 
 .box3 {
     background: lightblue;
+}
+.all-container{
+   margin-top:140px;
+}
+.container-coding{
+   display: flex;
+   margin-left: 17%;
+}
+.coding-img img{
+    width: 400px;
+    height: 400px;
+    top: 1180px;
+    background: url(.jpg), #ff1212;
+    border-radius: 26px;
+}
+
+.coding-text{
+    padding-left: 11%;
+    width: 654px;
+    height: 311px;
+    top: 1230px;
+}
+.develop{
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    color: black;
+}
+.coding-para{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+.button-text{
+    font-family: 'poppins';
+    border-radius: 6%;
+    width: 400px;
+    padding: 10px;
+    color: white;
+   text-decoration: none;
+    background-color: orangered;
 }

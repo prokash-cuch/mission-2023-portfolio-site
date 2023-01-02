@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    padding: auto;
+}
+
+.position-align {
+    display: flex;
+}
+
+.half-width {
+    width: 28%;
+    padding-left: 11%;
+}
+
+.border-shape {
+    border-left: 8px solid orangered;
+    border-radius: 11%;
+    margin-right: 4px;
+}
+
+.mission-box {
+
+    width: 520px;
+    height: 160px;
+    left: 156px;
+    margin-top: 140px;
+}
+
+.stay-mission {
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 80px;
+    margin-left: 6px;
+}
+
+.mission-22 {
+    color: orange;
+}
+
+.paragrach-box {
+
+    width: 471px;
+    height: 84px;
+    left: 157px;
+    top: 340px;
+}
+
+.paragrach-font {
+    font-family: 'poppins';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #3e3e3e
+}
+
+.angcor-button {
+
+    width: 172px;
+    height: 48px;
+    left: 156px;
+    margin-top: 14px;
+    border-radius: 10px;
+    background-color: orangered;
+}
+
+.button-name {
+    color: white;
+    display: flex;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 8px;
+    font-family: 'poppins';
+}
+
+.scroll-box {
+
+    width: 297px;
+    height: 24px;
+    left: 156px;
+    top: 520px;
+}
+
+.single-p {
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #434343;
+}
+
+.img-box img {
+
+    width: 500px;
+    height: 623px;
+    left: 807px;
+    top: -80px;
+}
+
+.my-mission {
+    text-align: center;
+    font-family: 'poppins';
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 120px;
+}
+
+.card-box {
+    width: 371px;
+    height: 381px;
+    left: 156px;
+    top: 723px;
+    margin-left: -2px;
+    border-radius: 5%;
+    background: silver;
+    margin-right: 76px;
+}
+
+.card-box img {
+    width: 141px;
+    height: 141px;
+    left: 188px;
+    top: 748px;
+}
+
+.letter-box {
+    width: 315px;
+    height: 153px;
+    left: 188px;
+    top: 901px;
+    padding: 20px;
+    margin-top: -45px;
+}
+
+.card-box .mission {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.mission-para {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.box2 {
+    background: paleturquoise;
+}
+
+.box3 {
+    background: lightblue;
+}

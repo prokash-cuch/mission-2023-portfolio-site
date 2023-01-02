@@ -206,3 +206,22 @@ body {
    text-decoration: none;
     background-color: orangered;
 }
+.container-codingOne{
+    display: flex;
+    margin-left: 7%;
+    margin-right: 40px;
+ }
+.coding-textTwo{
+    padding-left: 11%;
+    width: 654px;
+    height: 311px;
+    top: 1230px;
+}
+.coding-imgTwo img{
+    width: 400px;
+    height: 400px;
+    margin-left: 47%;
+    top: 1180px;
+    background: url(.jpg), #ff1212;
+    border-radius: 26px;
+}
